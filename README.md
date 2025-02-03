@@ -15,7 +15,7 @@ A responsive educational website designed to help students stay organized and ma
 ## 📦 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/studysync.git
+   git clone https://github.com/pavithra708/StudySync-proj/tree/main
    ```
 2. Open `index.html` in your preferred browser.
 
